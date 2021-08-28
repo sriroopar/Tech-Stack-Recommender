@@ -25,6 +25,7 @@ This project aims at providing relevant tech-stack for the domain selected by th
  
  
  ## Chatbot interface 
+ ![sample](file:///C:/Users/rsrir/OneDrive/Desktop/ss.jpg)
  
 
  
