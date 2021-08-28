@@ -23,10 +23,6 @@ This project aims at providing relevant tech-stack for the domain selected by th
  
  * When the button is clicked,it takes the user to the documentation page of the tool/language.
  
- 
- ## Chatbot interface 
- ![sample](file:///C:/Users/rsrir/OneDrive/Desktop/ss.jpg)
- 
 
  
  
